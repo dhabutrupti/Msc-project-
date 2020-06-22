@@ -1,5 +1,5 @@
 # Msc-project-
-This a project work for academic submission under post graduation programme 
+
 The task is to build classifcation model 
 1) Chronic kidney disease data ;
    TEch used : Decision tree,
